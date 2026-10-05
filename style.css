@@ -50,3 +50,5 @@ img,video{max-width:100%}main>section>*{min-width:0}.mobile-cta a{min-height:56p
 .review-condition{font-family:var(--sans);font-size:14px!important;font-weight:500;color:#75432c!important;line-height:1.7;margin:12px 0 0;background:#f9eee3;border:1px solid #ccb091;padding:9px 14px;display:inline-block}
 .price-card .review-condition{margin:0 0 15px;display:block}.hero-program{font-weight:500}
 @media(max-width:700px){.review-condition{font-size:13px!important}}
+
+.technique-price{font-size:15px!important;line-height:1.9;color:var(--ink)!important;margin:0 0 20px!important}.technique-price span{font-size:12px;color:var(--muted)}
